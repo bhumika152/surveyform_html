@@ -1,0 +1,28 @@
+fieldset{
+    width: 600px;
+    margin: auto;
+    height:590px;
+    background-color: rgb(103, 145, 103);
+
+}
+button{
+    margin-left: 90%;
+}
+P{
+    font-family: fantasy;
+    font-size: xx-large;
+    color: rgba(9, 38, 9, 0.639);
+    text-align: center;
+}
+form{
+   
+    font-size:large;
+}
+img{
+    position: absolute;
+  width: 120px;
+  height: 70px;
+  box-sizing: 30px;
+  
+ 
+ }
